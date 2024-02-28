@@ -24,6 +24,7 @@ export type PaperSelectTextInputProps = Pick<
   | 'activeOutlineColor'
   | 'left'
   | 'right'
+  | 'multiline'
 >;
 
 export type PaperSelectSearchbarProps = Pick<
